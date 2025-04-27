@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+```bash
+% which npx
+/Users/hdknr/.local/share/mise/shims/npx
+
+% mise use -g node@22.14.0
+mise ~/.config/mise/config.toml tools: node@22.14.0
+```
+
+```bash
+npx create-react-app photo-sphere-viewer-app
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
