@@ -19,6 +19,14 @@ npx create-react-app photo-sphere-viewer-app
 
 ```bash
 npm install @photo-sphere-viewer/core react-photo-sphere-viewer
+npm install @photo-sphere-viewer/compass-plugin 
+npm install @photo-sphere-viewer/markers-plugin
+```
+
+https://www.npmjs.com/package/photo-sphere-viewer-lensflare-plugin:
+
+```bash
+npm install photo-sphere-viewer-lensflare-plugin
 ```
 
 ## Available Scripts
