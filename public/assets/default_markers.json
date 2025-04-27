@@ -1,0 +1,28 @@
+[
+    {
+        "id": "imageLayer",
+        "imageLayer": "assets/pictos/tent.png",
+        "size": {
+            "width": 120,
+            "height": 94
+        },
+        "position": {
+            "yaw": -0.45,
+            "pitch": -0.1
+        },
+        "tooltip": "Image embedded in the scene"
+    },
+    {
+        "id": "imageLayer2",
+        "imageLayer": "assets/pictos/tent.png",
+        "size": {
+            "width": 120,
+            "height": 94
+        },
+        "position": {
+            "yaw": 0.45,
+            "pitch": 1
+        },
+        "tooltip": "Image embedded in the scene"
+    }
+]
